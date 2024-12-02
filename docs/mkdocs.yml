@@ -1,0 +1,6 @@
+site_name: Documentación de Laravel
+
+theme: material
+
+nav:
+  - Home: index.md
