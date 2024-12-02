@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.00">
+  <infoTributaria>
+    <ambiente>1</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>Nombre de tu empresa</razonSocial>
+    <nombreComercial>Nombre de tu empresa</nombreComercial>
+    <ruc>0916060684001</ruc>
+    <claveAcceso>2802202402091606068400110010010000000019111683811</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>00001</secuencial>
+    <dirMatriz>CEDROS</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>2024-02-28</fechaEmision>
+    <dirEstablecimiento>DIRECCION</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>razon social comprador</razonSocialComprador>
+    <identificacionComprador>1234567898</identificacionComprador>
+    <totalSinImpuestos>1.00</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos/>
+    <totalImpuesto/>
+    <codigo/>
+    <codigoPorcentaje/>
+    <baseImponible/>
+    <valor/>
+    <propina>0.00</propina>
+    <importeTotal>1.00</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <total>1.00</total>
+        <plazo>30</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>UIO00001</codigoPrincipal>
+      <descripcion>entrenamiento focus</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>270.00</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>270.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <baseImponible>1.00</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="email">cemm4@hotmail.com</campoAdicional>
+  </infoAdicional>
+</factura>

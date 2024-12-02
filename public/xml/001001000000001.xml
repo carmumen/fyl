@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<factura xmlns:ds="http://www.w3.org/2000/09/xmldsig#" id="comprobante" version="2.1.0">
+  <infoTributaria>
+    <ambiente>1</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>TANNYA VIVIANA ENRIQUEZ SANTOS</razonSocial>
+    <nombreComercial>TANNYA VIVIANA ENRIQUEZ SANTOS</nombreComercial>
+    <ruc>0916060684001</ruc>
+    <claveAcceso>2802202402091606068400110010010000000016650506717</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>000000001</secuencial>
+    <dirMatriz>CEDROS</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>2024-02-28</fechaEmision>
+    <dirEstablecimiento>DIRECCION</dirEstablecimiento>
+    <contribuyenteEspecial>345</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>IMPETUS S.A.S.</razonSocialComprador>
+    <identificacionComprador>1793066445001</identificacionComprador>
+    <totalSinImpuestos>522.25</totalSinImpuestos>
+    <totalDescuento>70.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>3</codigoPorcentaje>
+        <baseImponible>522.00</baseImponible>
+        <valor>73.12</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>595.37</importeTotal>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>UIO00001</codigoPrincipal>
+      <descripcion>entrenamiento focus</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>270.00</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>270.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>3</codigoPorcentaje>
+          <tarifa>14.00</tarifa>
+          <baseImponible>1.00</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="email">cemm4@hotmail.com</campoAdicional>
+  </infoAdicional>
+</factura>

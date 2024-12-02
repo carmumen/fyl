@@ -1,0 +1,108 @@
+{
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.ttf": {
+    "file": "assets/fa-brands-400-20c4a58b.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.ttf"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2": {
+    "file": "assets/fa-brands-400-74833209.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.ttf": {
+    "file": "assets/fa-regular-400-528d022d.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.ttf"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2": {
+    "file": "assets/fa-regular-400-8e7e5ea1.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.ttf": {
+    "file": "assets/fa-solid-900-67a65763.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.ttf"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2": {
+    "file": "assets/fa-solid-900-7152a693.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.ttf": {
+    "file": "assets/fa-v4compatibility-0515a423.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.ttf"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.woff2": {
+    "file": "assets/fa-v4compatibility-694a17c3.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.woff2"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-6c2a0a2e.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/css/fonts/icomoon.eot": {
+    "file": "assets/icomoon-edd8130e.eot",
+    "src": "resources/css/fonts/icomoon.eot"
+  },
+  "resources/css/fonts/icomoon.svg": {
+    "file": "assets/icomoon-07fd0a8c.svg",
+    "src": "resources/css/fonts/icomoon.svg"
+  },
+  "resources/css/fonts/icomoon.ttf": {
+    "file": "assets/icomoon-d7498d8b.ttf",
+    "src": "resources/css/fonts/icomoon.ttf"
+  },
+  "resources/css/fonts/icomoon.woff": {
+    "file": "assets/icomoon-f3ac87d9.woff",
+    "src": "resources/css/fonts/icomoon.woff"
+  },
+  "resources/css/images/ui-bg_diagonals-thick_90_eeeeee_40x40.png": {
+    "file": "assets/ui-bg_diagonals-thick_90_eeeeee_40x40-9feb9f28.png",
+    "src": "resources/css/images/ui-bg_diagonals-thick_90_eeeeee_40x40.png"
+  },
+  "resources/css/images/ui-bg_glass_100_e4f1fb_1x400.png": {
+    "file": "assets/ui-bg_glass_100_e4f1fb_1x400-e0658172.png",
+    "src": "resources/css/images/ui-bg_glass_100_e4f1fb_1x400.png"
+  },
+  "resources/css/images/ui-bg_glass_50_3baae3_1x400.png": {
+    "file": "assets/ui-bg_glass_50_3baae3_1x400-d5d69631.png",
+    "src": "resources/css/images/ui-bg_glass_50_3baae3_1x400.png"
+  },
+  "resources/css/images/ui-bg_glass_80_d7ebf9_1x400.png": {
+    "file": "assets/ui-bg_glass_80_d7ebf9_1x400-d95846a0.png",
+    "src": "resources/css/images/ui-bg_glass_80_d7ebf9_1x400.png"
+  },
+  "resources/css/images/ui-bg_highlight-hard_100_f2f5f7_1x100.png": {
+    "file": "assets/ui-bg_highlight-hard_100_f2f5f7_1x100-9afc9ddb.png",
+    "src": "resources/css/images/ui-bg_highlight-hard_100_f2f5f7_1x100.png"
+  },
+  "resources/css/images/ui-bg_highlight-soft_100_deedf7_1x100.png": {
+    "file": "assets/ui-bg_highlight-soft_100_deedf7_1x100-99928341.png",
+    "src": "resources/css/images/ui-bg_highlight-soft_100_deedf7_1x100.png"
+  },
+  "resources/css/images/ui-bg_highlight-soft_25_ffef8f_1x100.png": {
+    "file": "assets/ui-bg_highlight-soft_25_ffef8f_1x100-a21e226b.png",
+    "src": "resources/css/images/ui-bg_highlight-soft_25_ffef8f_1x100.png"
+  },
+  "resources/css/images/ui-icons_2694e8_256x240.png": {
+    "file": "assets/ui-icons_2694e8_256x240-7854111e.png",
+    "src": "resources/css/images/ui-icons_2694e8_256x240.png"
+  },
+  "resources/css/images/ui-icons_2e83ff_256x240.png": {
+    "file": "assets/ui-icons_2e83ff_256x240-9bfe83b9.png",
+    "src": "resources/css/images/ui-icons_2e83ff_256x240.png"
+  },
+  "resources/css/images/ui-icons_3d80b3_256x240.png": {
+    "file": "assets/ui-icons_3d80b3_256x240-da0be1cb.png",
+    "src": "resources/css/images/ui-icons_3d80b3_256x240.png"
+  },
+  "resources/css/images/ui-icons_72a7cf_256x240.png": {
+    "file": "assets/ui-icons_72a7cf_256x240-edff19c7.png",
+    "src": "resources/css/images/ui-icons_72a7cf_256x240.png"
+  },
+  "resources/css/images/ui-icons_ffffff_256x240.png": {
+    "file": "assets/ui-icons_ffffff_256x240-c8c0f6b5.png",
+    "src": "resources/css/images/ui-icons_ffffff_256x240.png"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-9f34e40c.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}
