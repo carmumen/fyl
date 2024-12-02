@@ -1,0 +1,1 @@
+<p>Su código de verificación es: {{ $codigo }}</p>

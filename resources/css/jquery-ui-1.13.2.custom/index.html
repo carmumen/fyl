@@ -1,0 +1,25 @@
+<script type="text/javascript">
+$(document).ready(function() {
+    $('#search').keyup(function() {
+        var searchTerm = $(this).val();
+
+        $.ajax({
+            url: '/autocompleteEmployee',
+            dataType: 'json',
+            data: {
+                term: searchTerm
+            },
+            success: function(response) {
+                var 
+                alert(JSON.stringify(response));
+              
+                //console.log(response[id]);
+                // Manipular la respuesta JSON y mostrar las sugerencias de autocompletado
+            }
+        });
+    });
+});
+    
+
+    
+</script>
